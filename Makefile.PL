@@ -28,11 +28,13 @@ my %WriteMakefileArgs = (
     "CGI" => 0,
     "Carp" => 0,
     "MooX" => 0,
+    "MooX::Types::MooseLike::Base" => 0,
+    "MooX::late" => "0.007",
     "Text::VimColor" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.0.1",
+  "VERSION" => "0.0.2",
   "test" => {
     "TESTS" => "t/*.t"
   }

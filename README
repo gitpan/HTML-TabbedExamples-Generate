@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution HTML-TabbedExamples-Generate,
-version 0.0.1:
+version 0.0.2:
 
   generate syntax-highlighted examples for
 codes with a markup compatible with jQueryUI's tab widgets.

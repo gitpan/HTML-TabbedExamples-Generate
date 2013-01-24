@@ -14,9 +14,9 @@ testing_command = runtest
 [PruneCruft]
 [VersionFromModule]
 [MetaResources]
-bugtracker.web = http://rt.cpan.org/NoAuth/Bugs.html?Dist=
-bugtracker.mailto = bug-@rt.cpan.org
-repository.url = ssh://hg@bitbucket.org/shlomif/perl-
-repository.web = http://bitbucket.org/shlomif/perl-
+bugtracker.web = http://rt.cpan.org/NoAuth/Bugs.html?Dist=HTML-TabbedExamples-Generate
+bugtracker.mailto = bug-html-tabbedexamples-generate@rt.cpan.org
+repository.url = ssh://hg@bitbucket.org/shlomif/perl-HTML-TabbedExamples-Generate
+repository.web = http://bitbucket.org/shlomif/perl-HTML-TabbedExamples-Generate
 repository.type = hg
 [PodWeaver]
