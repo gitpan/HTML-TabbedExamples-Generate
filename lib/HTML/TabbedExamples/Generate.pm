@@ -3,7 +3,9 @@ package HTML::TabbedExamples::Generate;
 use strict;
 use warnings;
 
-our $VERSION = '0.0.2';
+use 5.014;
+
+our $VERSION = '0.0.3';
 
 use MooX 'late';
 
@@ -127,7 +129,7 @@ codes with a markup compatible with jQueryUI's tab widgets.
 
 =head1 VERSION
 
-version 0.0.2
+version 0.0.3
 
 =head1 SYNOPSIS
 

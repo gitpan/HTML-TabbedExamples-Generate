@@ -23,9 +23,10 @@ requires:
   MooX::Types::MooseLike::Base: 0
   MooX::late: 0.007
   Text::VimColor: 0
+  perl: 5.014
   strict: 0
   warnings: 0
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=HTML-TabbedExamples-Generate
   repository: ssh://hg@bitbucket.org/shlomif/perl-HTML-TabbedExamples-Generate
-version: 0.0.2
+version: 0.0.3
