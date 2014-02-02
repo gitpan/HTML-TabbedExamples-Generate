@@ -8,7 +8,6 @@ META.yml
 Makefile.PL
 README
 dist.ini
-dist.ini~
 inc/Test/Run/Builder.pm
 lib/HTML/TabbedExamples/Generate.pm
 lib/HTML/TabbedExamples/Generate.pm~
@@ -17,5 +16,5 @@ t/release-pod-coverage.t
 t/release-pod-syntax.t
 t/release-trailing-space.t
 t/tabbed-examples-gen.t
-t/tabbed-examples-gen.t~
 weaver.ini
+weaver.ini~

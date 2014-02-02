@@ -19,7 +19,7 @@ name: HTML-TabbedExamples-Generate
 provides:
   HTML::TabbedExamples::Generate:
     file: lib/HTML/TabbedExamples/Generate.pm
-    version: v0.0.4
+    version: v0.0.5
 requires:
   CGI: 0
   Carp: 0
@@ -33,4 +33,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=HTML-TabbedExamples-Generate
   repository: ssh://hg@bitbucket.org/shlomif/perl-HTML-TabbedExamples-Generate
-version: 0.0.4
+version: 0.0.5
